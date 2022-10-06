@@ -1,0 +1,8 @@
+API_URL_SPOT=https://testnet.binance.vision/api
+STREAM_URL_SPOT=wss://testnet.binance.vision/ws/
+API_KEY_SPOT=
+SECRET_KEY_SPOT=
+API_URL_FUTURE=https://testnet.binancefuture.com/fapi
+STREAM_URL_FUTURE=wss://stream.binancefuture.com/ws/
+API_KEY_FUTURE=
+SECRET_KEY_FUTURE=
